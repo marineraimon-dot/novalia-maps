@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Novalia – Piles de Biomassa i Clients</name>
+
+  <Style id="pila">
+    <IconStyle>
+      <color>ffF44336</color>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+
+  <Style id="client">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon>
+    </IconStyle>
+  </Style>
+
+  <Folder>
+    <name>Piles de Biomassa</name>
+    <Placemark><name>PRESEGUÉ CAMPELLES</name><styleUrl>#pila</styleUrl><Point><coordinates>2.164638975680441,42.3271217743824,0</coordinates></Point></Placemark>
+    <Placemark><name>PATI PRESEGUÉ CALLDETENES</name><styleUrl>#pila</styleUrl><Point><coordinates>2.302137782579705,41.927404358538624,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA NOVA</name><styleUrl>#pila</styleUrl><Point><coordinates>2.141220971613452,41.804333606487184,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA PISTA</name><styleUrl>#pila</styleUrl><Point><coordinates>2.1387992486182763,41.80180589995126,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA 5</name><styleUrl>#pila</styleUrl><Point><coordinates>2.1366021090861382,41.80256324019923,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA 3</name><styleUrl>#pila</styleUrl><Point><coordinates>2.1369644878871314,41.800990158550206,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA 4</name><styleUrl>#pila</styleUrl><Point><coordinates>2.133992884619125,41.80055177913016,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA 1</name><styleUrl>#pila</styleUrl><Point><coordinates>2.136610022923078,41.79772776587471,0</coordinates></Point></Placemark>
+    <Placemark><name>PRESEGUÉ MOIÀ – PILA 2</name><styleUrl>#pila</styleUrl><Point><coordinates>2.1338528766378473,41.79514358991311,0</coordinates></Point></Placemark>
+    <Placemark><name>SERFOCAT FINCA CLAPERS</name><styleUrl>#pila</styleUrl><Point><coordinates>2.026394225837834,41.82052192787412,0</coordinates></Point></Placemark>
+    <Placemark><name>BOSCAT CALLÚS</name><styleUrl>#pila</styleUrl><Point><coordinates>1.7923094443572052,41.77952297780769,0</coordinates></Point></Placemark>
+    <Placemark><name>BOSCAT SANT PERE SALLAVINERA</name><styleUrl>#pila</styleUrl><Point><coordinates>1.5591776337888468,41.764308309083525,0</coordinates></Point></Placemark>
+    <Placemark><name>BOSCAT CAN SOLÀ EL BRUC</name><styleUrl>#pila</styleUrl><Point><coordinates>1.740517619183729,41.59915270745476,0</coordinates></Point></Placemark>
+    <Placemark><name>BOSCAT RIVER BLAVES</name><styleUrl>#pila</styleUrl><Point><coordinates>1.918962564706246,41.55055284484241,0</coordinates></Point></Placemark>
+    <Placemark><name>LLENÇ ARBRERA</name><styleUrl>#pila</styleUrl><Point><coordinates>1.9091726515304739,41.51043939075448,0</coordinates></Point></Placemark>
+    <Placemark><name>BAUTISTA CAN CANALS</name><styleUrl>#pila</styleUrl><Point><coordinates>1.8936851112372641,41.42247111474716,0</coordinates></Point></Placemark>
+    <Placemark><name>EXFOCAT CAN ROVIRA</name><styleUrl>#pila</styleUrl><Point><coordinates>1.8238913727422141,41.38361384040458,0</coordinates></Point></Placemark>
+    <Placemark><name>EXFOCAT CASA BERTRANET</name><styleUrl>#pila</styleUrl><Point><coordinates>1.7561935850489563,41.32816687394242,0</coordinates></Point></Placemark>
+    <Placemark><name>GRIGORE CASTILLEJOS</name><styleUrl>#pila</styleUrl><Point><coordinates>0.9933796744115968,41.24993085738776,0</coordinates></Point></Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Clients</name>
+    <Placemark><name>LIPSA</name><styleUrl>#client</styleUrl><Point><coordinates>2.1533844508028066,41.5321794289851,0</coordinates></Point></Placemark>
+    <Placemark><name>ROFEICA</name><styleUrl>#client</styleUrl><Point><coordinates>1.670306780312912,41.567320046435825,0</coordinates></Point></Placemark>
+    <Placemark><name>SPT</name><styleUrl>#client</styleUrl><Point><coordinates>2.288256584597203,42.0679513119149,0</coordinates></Point></Placemark>
+    <Placemark><name>SENSE NOM</name><styleUrl>#client</styleUrl><Point><coordinates>0.7999427261276423,41.52862171777923,0</coordinates></Point></Placemark>
+    <Placemark><name>NUFRI</name><styleUrl>#client</styleUrl><Point><coordinates>0.8871125366061016,41.68564043455767,0</coordinates></Point></Placemark>
+    <Placemark><name>CROMOGENIA</name><styleUrl>#client</styleUrl><Point><coordinates>1.1801233964282078,41.276601193494955,0</coordinates></Point></Placemark>
+  </Folder>
+
+</Document>
+</kml>
